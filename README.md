@@ -10,7 +10,7 @@ I am a full-stack programmer and SEO technician, I manage programming technologi
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
-I was working on SEO for the page <a href="limegroupmarketing.com">limegroupmarketing.com</a>
+I was working on SEO for the page <a href="https://limegroupmarketing.com" target="_blank">limegroupmarketing.com</a>
 <!--
 **programing-master/programing-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
