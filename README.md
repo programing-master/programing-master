@@ -31,8 +31,7 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 <!-- Tools and Others -->
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
-<img width="50" src="https://cdn.jsdelivr.net/npm/@radix-ui/react-icons@1.0.6/icons/corner-down-right.svg" alt="Radix UI" title="Radix UI"/>
-
+<img width="50" src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" title="Django"/>
 </div>
 
 ---
@@ -43,7 +42,7 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 - 🌱 I’m continuously learning and improving my skills in backend and frontend technologies.
 - 👯 I’m open to collaborating on innovative projects.
 - 💬 Ask me about full stack development, APIs, and modern JavaScript frameworks.
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 📫 How to reach me: [javierprofesionalwork@gmail.com]
 
 ---
 
