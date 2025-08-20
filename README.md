@@ -18,7 +18,6 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
 
 <!-- Backend Technologies -->
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/icons/django/django-original.svg" alt="Django" title="Django"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express"/>
