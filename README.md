@@ -3,7 +3,7 @@
 My name is **Javier Ernesto Valladares Alonso**  
 I am a **Full Stack Developer** specializing in managing programming technologies across frontend and backend.
 
-<div class="container" style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div class="container" style="display: flex; gap: 20px; flex-wrap: wrap;">
 
 <!-- Frontend Technologies -->
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
