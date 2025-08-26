@@ -18,7 +18,9 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express"/>
-
+<img width="50" src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" title="Django"/>
+<img width="50" src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" title="Java"/>
+<img width="50" src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring Boot" title="Spring Boot"/>
 <!-- Databases -->
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>
@@ -26,10 +28,8 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 <!-- Tools and Others -->
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
-<img width="50" src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" title="Django"/>
 <img width="50" src="https://www.svgrepo.com/show/452192/docker.svg" alt="Docker" title="Docker"/>
-<img width="50" src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" title="Java"/>
-<img width="50" src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring Boot" title="Spring Boot"/>
+
 
 </div>
 
