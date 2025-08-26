@@ -5,6 +5,17 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 </br>
 <div class="container" style="display: flex; gap: 20px; flex-wrap: wrap;">
 
+---
+
+### About Me
+
+- 🌱 I’m continuously learning and improving my skills in backend and frontend technologies.
+- 👯 I’m open to collaborating on innovative projects.
+- 💬 Ask me about full stack development, APIs, and modern JavaScript frameworks.
+- 📫 How to reach me: [javierprofesionalwork@gmail.com](mailto:javierprofesionalwork@gmail.com)
+
+---
+
 <!-- Frontend Technologies -->
 <div class="container" style="display: flex;flex-direction:column; gap: 20px; flex-wrap: wrap; margin:1vh 0;">
 <h5>Frontend Technologies</h5>
@@ -57,15 +68,6 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 
 </div>
 
----
 
-### About Me
-
-- 🌱 I’m continuously learning and improving my skills in backend and frontend technologies.
-- 👯 I’m open to collaborating on innovative projects.
-- 💬 Ask me about full stack development, APIs, and modern JavaScript frameworks.
-- 📫 How to reach me: [javierprofesionalwork@gmail.com](mailto:javierprofesionalwork@gmail.com)
-
----
 
 Looking forward to connecting and collaborating!
