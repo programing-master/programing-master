@@ -2,12 +2,12 @@
 
 My name is **Javier Ernesto Valladares Alonso**  
 I am a **Full Stack Developer** specializing in managing programming technologies across frontend and backend.
-
+</br>
 <div class="container" style="display: flex; gap: 20px; flex-wrap: wrap;">
 
 <!-- Frontend Technologies -->
 <div class="container" style="display: flex;flex-direction:column; gap: 20px; flex-wrap: wrap; margin:1vh 0;">
-<h4>Frontend Technologies</h4>
+<h5>Frontend Technologies</h5>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="Javascript" title="Javascript"/>
@@ -20,6 +20,7 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 
 <!-- Backend Technologies -->
 <div class="container" style="display: flex;flex-direction:column; gap: 20px; flex-wrap: wrap;">
+  <h5>Backend Technologies</h5>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express"/>
@@ -30,6 +31,7 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 
 <!-- Databases -->
 <div class="container" style="display: flex;flex-direction:column; gap: 20px; flex-wrap: wrap;">
+    <h5>Databases</h5>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>
 </div>
@@ -37,6 +39,7 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 
 <!-- Tools and Others -->
 <div class="container" style="display: flex;flex-direction:column; gap: 20px; flex-wrap: wrap;">
+   <h5>Tools and Others</h5>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
 <img width="50" src="https://www.svgrepo.com/show/452192/docker.svg" alt="Docker" title="Docker"/>
