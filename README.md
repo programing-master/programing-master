@@ -25,7 +25,7 @@ Looking forward to connecting and collaborating!
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular"/>
-  <img width="50" src="https://th.bing.com/th/id/R.31039a53ab57f00b4eff33fb7bcfa2e8?rik=UIZQaEGUtXYHEA&pid=ImgRaw&r=0" alt="HTML" title="HTML"/>
+
 
 </div>
 
