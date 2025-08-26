@@ -27,6 +27,8 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
 <img width="50" src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" title="Django"/>
+<img width="50" src="https://www.svgrepo.com/show/373554/docker.svg" alt="Docker" title="Docker"/>
+
 </div>
 
 ---
