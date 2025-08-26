@@ -7,6 +7,7 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 
 <!-- Frontend Technologies -->
 <div class="container" style="display: flex;flex-direction:column; gap: 20px; flex-wrap: wrap;">
+<h2>Frontend Technologies</h2>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="Javascript" title="Javascript"/>
