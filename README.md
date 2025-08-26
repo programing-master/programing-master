@@ -28,6 +28,8 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
 <img width="50" src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" title="Django"/>
 <img width="50" src="https://www.svgrepo.com/show/452192/docker.svg" alt="Docker" title="Docker"/>
+<img width="50" src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" title="Java"/>
+<img width="50" src="https://i0.wp.com/image.pngaaa.com/546/2459546-middle.png" alt="Spring Boot" title="Spring Boot"/>
 
 </div>
 
