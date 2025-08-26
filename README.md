@@ -15,6 +15,7 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 - 📫 How to reach me: [javierprofesionalwork@gmail.com](mailto:javierprofesionalwork@gmail.com)
 
 ---
+Looking forward to connecting and collaborating!
 
 <!-- Frontend Technologies -->
 <div class="container" style="width:100%;display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 1vh 0;">
@@ -70,4 +71,4 @@ I am a **Full Stack Developer** specializing in managing programming technologie
 
 
 
-Looking forward to connecting and collaborating!
+
