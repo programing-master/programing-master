@@ -33,7 +33,7 @@ Looking forward to connecting and collaborating!
 
 
 <!-- Backend Technologies -->
-<div class="container" style="display: flex;flex-direction:column; gap: 20px; flex-wrap: wrap;">
+<div class="container" style="display: flex;flex-direction:column; gap: 30px; flex-wrap: wrap;">
   <h5>Backend Technologies</h5>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express"/>
@@ -43,14 +43,14 @@ Looking forward to connecting and collaborating!
 </div>
 
 <!-- Databases -->
-<div class="container" style="display: flex;flex-direction:column; gap: 20px; flex-wrap: wrap;">
+<div class="container" style="display: flex;flex-direction:column; gap: 30px; flex-wrap: wrap;">
     <h5>Databases</h5>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>
 </div>
 
 <!-- Programing Languages -->
-<div class="container" style="display: flex;flex-direction:column; gap: 20px; flex-wrap: wrap;">
+<div class="container" style="display: flex;flex-direction:column; gap: 30px; flex-wrap: wrap;">
     <h5>programming languages.</h5>
 <img width="50" src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" title="Java"/>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
@@ -61,7 +61,7 @@ Looking forward to connecting and collaborating!
 </div>
 
 <!-- Tools and Others -->
-<div class="container" style="display: flex;flex-direction:column; gap: 20px; flex-wrap: wrap;">
+<div class="container" style="display: flex;flex-direction:column; gap: 30px; flex-wrap: wrap;">
    <h5>Tools and Others</h5>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
@@ -72,7 +72,7 @@ Looking forward to connecting and collaborating!
       <img width="50" src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vitejs" title="Vitejs"/>
       <img width="50" src="https://www.svgrepo.com/show/349575/yarn.svg" alt="Yarn" title="Yarn"/>
       <img width="50" src="https://www.svgrepo.com/show/452077/npm.svg" alt="Npm" title="Npm"/>
-      <img width="50" src="hhttps://www.svgrepo.com/show/373778/light-pnpm.svg" alt="Pnpm" title="Pnpm"/>
+      <img width="50" src="https://www.svgrepo.com/show/373778/light-pnpm.svg" alt="Pnpm" title="Pnpm"/>
 </div>
 
 
