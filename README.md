@@ -67,6 +67,9 @@ Looking forward to connecting and collaborating!
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
 <img width="50" src="https://www.svgrepo.com/show/452192/docker.svg" alt="Docker" title="Docker"/>
   <img width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" title="Postman"/>
+    <img width="50" src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="VSCode" title="VSCode"/>
+      <img width="50" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" alt="Intellij" title="Intellij"/>
+
 </div>
 
 
