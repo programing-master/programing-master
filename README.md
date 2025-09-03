@@ -75,7 +75,7 @@ Looking forward to connecting and collaborating!
       <img width="50" src="https://www.svgrepo.com/show/373778/light-pnpm.svg" alt="Pnpm" title="Pnpm"/>
 </div>
 
-<div class="container" style="display: flex;flex-direction:column; gap: 30px; flex-wrap: wrap;">
+<div class="container" style="display: flex;flex-direction:column; gap: 40px; flex-wrap: wrap;">
    <h5>DevOps</h5>
   <img width="50" src="https://www.svgrepo.com/show/354512/vercel.svg" alt="Vercel" title="Vercel"/>
   <img width="50" src="https://www.svgrepo.com/show/354110/netlify.svg" alt="Netlify" title="Netlify"/>
