@@ -27,7 +27,7 @@ Looking forward to connecting and collaborating!
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular"/>
 <img width="50" src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML" title="HTML"/>
 <img width="50" src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" title="CSS"/>
-
+<img width="50" src="https://www.svgrepo.com/show/354310/sass.svg" alt="Sass" title="Sass"/>
 
 </div>
 
