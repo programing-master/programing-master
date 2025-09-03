@@ -69,7 +69,10 @@ Looking forward to connecting and collaborating!
   <img width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" title="Postman"/>
     <img width="50" src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="VSCode" title="VSCode"/>
       <img width="50" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" alt="Intellij" title="Intellij"/>
-
+      <img width="50" src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vitejs" title="Vitejs"/>
+      <img width="50" src="https://www.svgrepo.com/show/349575/yarn.svg" alt="Yarn" title="Yarn"/>
+      <img width="50" src="https://www.svgrepo.com/show/452077/npm.svg" alt="Npm" title="Npm"/>
+      <img width="50" src="hhttps://www.svgrepo.com/show/373778/light-pnpm.svg" alt="Pnpm" title="Pnpm"/>
 </div>
 
 
