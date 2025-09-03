@@ -39,6 +39,7 @@ Looking forward to connecting and collaborating!
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express"/>
 <img width="50" src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" title="Django"/>
 <img width="50" src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring Boot" title="Spring Boot"/>
+  <img width="50" src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg" alt="Nestjs" title="Nestjs"/>
 </div>
 
 <!-- Databases -->
